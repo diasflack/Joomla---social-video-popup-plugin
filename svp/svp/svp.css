@@ -1,0 +1,23 @@
+a.svp_video {
+		position:relative;
+		width: 292px;
+		display: block;
+	}
+	
+a.svp_video h3 {
+		padding-top: 15px;
+		padding-bottom: 60px;
+		text-align: center;
+		margin: auto;
+}
+	
+a.svp_video .play {
+		position: absolute;
+		top: 10px;
+		left: 10px;
+	}
+	
+img.svp {
+		width: 292px;
+		height: 198px;
+	}

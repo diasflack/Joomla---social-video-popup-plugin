@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<extension version="3.0" type="plugin" method="upgrade" group="content">
+    <name>Social video plugin</name>
+    <author>diasflack</author>
+    <creationDate>June 2013</creationDate>
+    <copyright>(C) 2013 cleverleafs all right reserved</copyright>
+    <license>GNU/GPL</license>
+    <authorEmail>dante_s@mail.ru</authorEmail>
+    <authorUrl>www.joomla.org</authorUrl>
+    <version>0.0.1</version>
+    <description>Allows to create video thumbs through {svp}link{/svp} tags with player in popup window</description>
+     
+    <files>
+        <filename plugin="svp">svp.php</filename>
+        <filename plugin="svp">play.png</filename>
+        <filename plugin="svp">index.html</filename>
+        <folder>svp</folder>
+    </files>
+     
+    <params>
+           
+    </params>
+</extension>
